@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.neutronfile.unc0ver</string>
+				<string>org.neutronfile.kinemaster</string>
 				<key>bundle-version</key>
-				<string>5.3.1</string>
+				<string>4.13.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Unc0ver 5.3.1 by @NeutronFile . Enjoy 😊❤️</string>
+				<string>This app is available only on the App Store for iPhone and iPad. KineMaster - Video Editor 4+. Video maker with music. @NeutronFile . Enjoy 😊❤️</string>
 			</dict>
 		</dict>
 	</array>
