@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.neutronfile.unc0ver</string>
+				<string>org.neutronfile.unc0ver1</string>
 				<key>bundle-version</key>
-				<string>5.2.0</string>
+				<string>5.3.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Unc0ver 5.2.0 jailbreak ios 13 to 13.5 by @NeutronFile . Enjoy 😊❤️</string>
+				<string>Unc0ver 5.3.1 jailbreak ios 13 to 13.5 by @NeutronFile . Enjoy 😊❤️</string>
 			</dict>
 		</dict>
 	</array>
